@@ -4,7 +4,9 @@
 
 [React Docs](https://reactjs.org/docs/introducing-jsx.html)
 
-neetcode.io - An "optimized" list of leetcode questions with video solutions for them all. I was using it a lot at first, but it seems like a lot of frontend interviews don't go too hard on leetcode so I've stopped focusing here for the time being.
+## Interview training
+
+[Neetcode](neetcode.io) - An "optimized" list of leetcode questions with video solutions for them all. I was using it a lot at first, but it seems like a lot of frontend interviews don't go too hard on leetcode so I've stopped focusing here for the time being.
 
 [FrontEnd Interview Handbook](frontendinterviewhandbook.com) - A pretty good general guide book on things to prepare for
 
