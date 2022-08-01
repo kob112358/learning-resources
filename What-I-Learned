@@ -1,0 +1,1 @@
+onBlur() - is an event that will trigger when an item loses focus, good for validation
