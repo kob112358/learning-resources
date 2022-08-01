@@ -1,1 +1,2 @@
 onBlur() - is an event that will trigger when an item loses focus, good for validation
+useCallback()/useMemo() is good to use when you have an expensive calculation, and you only want to run it whenever a dependency changes
