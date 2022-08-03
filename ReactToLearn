@@ -6,14 +6,16 @@ Form Validation
 CSS
 
 # Learn
-useReducer
-useContext
-useCallback
-Custom React Hooks
-Redux
 React Router
 Authentication
+useContext
 TypeScript
 Node.js
 Express
-PostgresQL
+PostgresQL/Mongo
+useCallback
+
+#Learn later
+useReducer
+Custom React Hooks
+Redux
