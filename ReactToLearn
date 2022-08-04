@@ -6,14 +6,16 @@ Form Validation
 CSS
 
 # Learn
-React Router
-Authentication
+React Router 8/3, 8/4
+Authentication 8/3, 8/4
 useContext
 TypeScript
 Node.js
 Express
 PostgresQL/Mongo
 useCallback
+ComponentDidUpdate
+ComponentWillUnmount
 
 #Learn later
 useReducer
